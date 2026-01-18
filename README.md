@@ -1,391 +1,391 @@
 # AI First Workspace Template
 
-## 🤔 Two Questions That Will Transform Your Business
+## 🤔 Два вопроса, которые трансформируют ваш бизнес
 
-**❓ What if you moved your workflows from ChatGPT's website to superagents like Cursor?**
-- Instead of copying & pasting between browser tabs, your AI understands your entire business context
-- No more losing conversation history or starting from scratch every session
-- AI that knows your company's strategies, processes, and goals
+**❓ Что если вы перенесёте свои рабочие процессы с сайта ChatGPT на суперагентов вроде Cursor?**
+- Вместо копирования и вставки между вкладками браузера, ваш AI понимает весь бизнес-контекст
+- Больше никакой потери истории разговоров или начала с нуля каждую сессию
+- AI, который знает стратегии, процессы и цели вашей компании
 
-**❓ What if your entire company used tools like Cursor and shared context, prompts, scripts, and workflows across the whole organization?**
-- Your marketing team's AI expertise becomes available to your strategy team
-- Your operations workflows become templates for the entire company  
-- Every team member benefits from the collective AI intelligence of your organization
+**❓ Что если вся ваша компания использовала инструменты вроде Cursor и делилась контекстом, промптами, скриптами и рабочими процессами во всей организации?**
+- Экспертиза AI вашей маркетинговой команды становится доступной для стратегической команды
+- Ваши операционные рабочие процессы становятся шаблонами для всей компании  
+- Каждый член команды получает выгоду от коллективного AI-интеллекта вашей организации
 
-## 🎯 From Individual AI Usage → Organizational AI Intelligence
+## 🎯 От индивидуального использования AI → Организационный AI-интеллект
 
-**Most companies today:** Everyone uses ChatGPT individually, recreating prompts, losing context, working in silos.
+**Большинство компаний сегодня:** Каждый использует ChatGPT индивидуально, воссоздавая промпты, теряя контекст, работая изолированно.
 
-**What this template enables:** Your entire organization becomes an AI-powered organism where knowledge, workflows, and expertise compound across all departments.
-
----
-
-## 👨‍💻 **Created by**: [Seva Ustinov](https://github.com/vsevolodustinov) | [📱 Telegram](https://t.me/sevaustinov) | [🐦 X/Twitter](https://x.com/sevaustinov) | [💼 LinkedIn](https://linkedin.com/in/sevaustinov)
-
-*Based on the real-world [Elly Analytics](https://ellyanalytics.com) workspace implementation*
+**Что обеспечивает этот шаблон:** Вся ваша организация становится AI-организмом, где знания, рабочие процессы и экспертиза умножаются во всех отделах.
 
 ---
 
-## 🚀 What This Template Provides
+## 👨‍💻 **Автор**: [Seva Ustinov](https://github.com/vsevolodustinov) | [📱 Telegram](https://t.me/sevaustinov) | [🐦 X/Twitter](https://x.com/sevaustinov) | [💼 LinkedIn](https://linkedin.com/in/sevaustinov)
 
-This is the **complete framework** that enables companies to migrate their entire workforce — developers, marketers, strategists, operations teams, and executives — from isolated AI usage to **organizational AI intelligence**.
-
-### ✨ Key Benefits
-
-**🤖 AI-Powered Productivity for Everyone:**
-- **Personal task automation** - AI handles routine work while teams focus on strategy
-- **Custom agent context** - Each team member can build specialized AI workflows
-- **Cross-department intelligence** - AI agents understand your full business context
-
-**🔗 Unified Knowledge Sharing:**
-- **Department-specific expertise** - AI adapts to strategy, product, marketing, operations contexts
-- **Shared workflows & prompts** - Leverage specialized AI tools created by colleagues
-- **Full organizational transparency** - See the complete picture beyond departmental silos
-
-**🏢 Enterprise-Ready Structure:**
-- **Scalable repository architecture** - Each department = separate repo with proper access control
-- **Professional git workflows** - Maintains enterprise standards while enabling AI collaboration
-- **Battle-tested at scale** - Proven with 40+ person team across multiple countries
-
-### 🎯 Perfect For
-
-- **Growing companies** (10-100+ employees) ready to become AI-first
-- **Organizations with multiple departments** needing structured collaboration
-- **Leadership teams** wanting to unlock AI productivity across all functions
-- **Companies migrating from traditional tools** to developer-quality workflows
+*Основано на реальной реализации рабочего пространства [Elly Analytics](https://ellyanalytics.com)*
 
 ---
 
-## 📋 What's Included
+## 🚀 Что предоставляет этот шаблон
 
-This template contains **real examples** from Elly Analytics showing:
+Это **полный фреймворк**, который позволяет компаниям мигрировать всю свою рабочую силу — разработчиков, маркетологов, стратегов, операционные команды и руководителей — от изолированного использования AI к **организационному AI-интеллекту**.
 
-### 📊 **Complete Department Structure**
-- **Strategy** - Competitive analysis, business planning, executive decision-making
-- **Product** - Roadmaps, specifications, user research, technical planning  
-- **Sales & Marketing** - Campaigns, content creation, sales processes, go-to-market
-- **Operations** - Process documentation, metrics, hiring & recruitment workflows
-- **Finance** - Financial models, projections, unit economics
-- **Projects** - Client project management, team allocation, portfolio tracking
+### ✨ Ключевые преимущества
 
-### 🤖 **AI Context Switching System**
-- **Department-specific AI behavior** - AI adapts expertise per team
-- **Cross-functional collaboration** - Maintain specialization while enabling transparency
-- **Sophisticated prompt engineering** - Pre-built AI workflows for each department
+**🤖 AI-продуктивность для всех:**
+- **Автоматизация личных задач** - AI выполняет рутинную работу, пока команды фокусируются на стратегии
+- **Кастомный контекст агента** - Каждый член команды может создавать специализированные AI-воркфлоу
+- **Межотдельная интеллектуальность** - AI-агенты понимают полный бизнес-контекст
 
-### 🛠️ **Implementation Framework**
-- **Repository architecture** - Multi-repo structure with proper access control
-- **Automation scripts** - One-command setup and daily sync workflows
-- **Professional git workflows** - Enterprise-ready collaboration patterns
+**🔗 Унифицированный обмен знаниями:**
+- **Экспертиза по отделам** - AI адаптируется к контекстам стратегии, продукта, маркетинга, операций
+- **Общие воркфлоу и промпты** - Используйте специализированные AI-инструменты, созданные коллегами
+- **Полная организационная прозрачность** - Видите полную картину за пределами отделов
 
-### 📚 **Real-World Examples**
-- **Strategy documents** - Competitive analysis, business model planning
-- **Product specifications** - Technical requirements, user research, roadmaps
-- **Marketing campaigns** - Content creation, lead scoring, campaign tracking
-- **Operational processes** - Hiring workflows, project management, team coordination
+**🏢 Структура готовности к масштабированию:**
+- **Масштабируемая архитектура репозиториев** - Каждый отдел = отдельный репозиторий с правильным контролем доступа
+- **Профессиональные git воркфлоу** - Поддерживает корпоративные стандарты, обеспечивая AI-коллаборацию
+- **Проверено в бою** - Доказано работой с командой 40+ человек в нескольких странах
 
----
+### 🎯 Идеально для
 
-## 💡 Why This Approach Works
-
-### Unique Advantages
-
-**🚀 Beyond Basic AI Adoption:**
-- Most companies use AI for individual tasks
-- This framework enables **organizational AI intelligence**
-- AI agents understand your complete business context
-
-**💼 Enterprise-Ready:**
-- Professional git workflows and access control
-- Scalable architecture for growing teams  
-- Proper separation of concerns between departments
-
-**🎯 Practical Implementation:**
-- Real examples and templates, not just theory
-- Proven workflows refined through daily use
-- Clear migration path from traditional tools
+- **Растущих компаний** (10-100+ сотрудников), готовых стать AI-first
+- **Организаций с несколькими отделами**, нуждающихся в структурированной коллаборации
+- **Руководящих команд**, желающих раскрыть AI-продуктивность во всех функциях
+- **Компаний, мигрирующих с традиционных инструментов** на рабочие процессы уровня разработчиков
 
 ---
 
-## ❓ Frequently Asked Questions
+## 📋 Что включено
 
-### **🤔 "Isn't this just Notion/Google Docs with AI?"**
+Этот шаблон содержит **реальные примеры** из Elly Analytics, показывающие:
 
-**No.** The key difference is **code execution**. 
+### 📊 **Полная структура отделов**
+- **Strategy** - Анализ конкурентов, бизнес-планирование, принятие исполнительных решений
+- **Product** - Дорожные карты, спецификации, пользовательские исследования, техническое планирование  
+- **Sales & Marketing** - Кампании, создание контента, процессы продаж, выход на рынок
+- **Operations** - Документация процессов, метрики, воркфлоу найма и рекрутинга
+- **Finance** - Финансовые модели, прогнозы, unit-экономика
+- **Projects** - Управление клиентскими проектами, распределение команды, отслеживание портфеля
 
-Most "AI solutions" are glorified chatbots or knowledge bases that can summarize and search. **The real magic happens when AI can write and execute code.**
+### 🤖 **Система переключения контекста AI**
+- **Поведение AI по отделам** - AI адаптирует экспертизу для каждой команды
+- **Межфункциональная коллаборация** - Поддерживает специализацию, обеспечивая прозрачность
+- **Продвинутая инженерия промптов** - Предварительно собранные AI-воркфлоу для каждого отдела
 
-- 📝 **Notion/Google Docs** = useful for documentation
-- 🗃️ **Knowledge bases** = valuable for information storage  
-- 💻 **AI that writes and executes code** = **transformative automation**
+### 🛠️ **Фреймворк реализации**
+- **Архитектура репозиториев** - Мульти-репо структура с правильным контролем доступа
+- **Скрипты автоматизации** - Настройка одной командой и ежедневные синхронизации
+- **Профессиональные git воркфлоу** - Готовые к использованию паттерны коллаборации
 
-This framework enables your AI to actually **do things** - process files, run analyses, automate workflows - not just talk about them.
+### 📚 **Реальные примеры**
+- **Стратегические документы** - Анализ конкурентов, планирование бизнес-модели
+- **Спецификации продукта** - Технические требования, пользовательские исследования, дорожные карты
+- **Маркетинговые кампании** - Создание контента, скоринг лидов, отслеживание кампаний
+- **Операционные процессы** - Воркфлоу найма, управление проектами, координация команды
 
-### **📦 "What exactly is included in this template?"**
+---
 
-**You get a complete, working business intelligence workspace:**
+## 💡 Почему этот подход работает
 
-**🏗️ Ready-to-use structure:**
-- 📁 **7 department repositories** (Strategy, Product, Marketing, Operations, Finance, Legal-HR, Hiring)
-- 📁 **Dev repositories** for technical projects  
-- 📁 **Projects folder** for client work
-- 📁 **Presales materials** repository
+### Уникальные преимущества
 
-**🤖 AI Configuration:**
-- `.cursorrules` files for each department with specialized AI behavior
-- Context-switching system ("use marketing context" → AI becomes marketing expert)
-- Department-specific prompts and guidelines
+**🚀 За пределами базового внедрения AI:**
+- Большинство компаний используют AI для отдельных задач
+- Этот фреймворк обеспечивает **организационный AI-интеллект**
+- AI-агенты понимают полный бизнес-контекст
 
-**📋 Real examples and templates:**
-- **Hiring pipeline** with candidate evaluation frameworks and scoring
-- **Marketing campaign** planning and analysis workflows
-- **Financial models** and investor update templates
-- **Strategy documents** including competitive analysis and business models
-- **Client project** management templates
+**💼 Готовность к масштабированию:**
+- Профессиональные git воркфлоу и контроль доступа
+- Масштабируемая архитектура для растущих команд  
+- Правильное разделение ответственности между отделами
 
-**⚙️ Automation scripts:**
-- One-click setup for your organization (`setup/clone-all-repos.sh`)
-- Daily sync scripts (`setup/update-all.sh`)
-- Cross-platform support (Windows PowerShell + Mac/Linux Bash)
+**🎯 Практическая реализация:**
+- Реальные примеры и шаблоны, а не только теория
+- Проверенные воркфлоу, отточенные ежедневным использованием
+- Чёткий путь миграции с традиционных инструментов
 
-**🎯 What you can try immediately:**
-1. **Ask AI to analyze** the example competitor research
-2. **Have AI create** a new marketing campaign using existing templates
-3. **Test the hiring** evaluation system with sample candidates
-4. **Generate financial** projections using the included models
+---
 
-**📖 All based on real company usage** - these aren't theoretical templates, they're workflows refined through daily use at a real business.
+## ❓ Часто задаваемые вопросы
 
-### **📂 "Do I really need to learn GitHub? It seems complex."**
+### **🤔 "Это не просто Notion/Google Docs с AI?"**
 
-**Think of GitHub as Google Drive, not as a developer tool.**
+**Нет.** Ключевое отличие — **выполнение кода**. 
 
-You'll never manually type git commands. Your AI agent handles all the technical stuff. For you, it's just:
-- 📁 Folders with your files
-- 💬 "Hey, download all updates" → AI syncs everything
-- 💬 "Upload my changes" → AI commits and pushes
+Большинство "AI-решений" — это улучшенные чатботы или базы знаний, которые могут суммировать и искать. **Настоящая магия происходит, когда AI может писать и выполнять код.**
 
-The benefit: version history, team collaboration, and professional-grade file management that scales.
+- 📝 **Notion/Google Docs** = полезны для документации
+- 🗃️ **Базы знаний** = ценны для хранения информации  
+- 💻 **AI, который пишет и выполняет код** = **трансформационная автоматизация**
 
-### **🔄 "How do I migrate from Notion/Confluence/Google Docs?"**
+Этот фреймворк позволяет вашему AI реально **делать вещи** - обрабатывать файлы, запускать анализы, автоматизировать воркфлоу - а не просто говорить о них.
 
-**Gradual migration, department by department:**
+### **📦 "Что именно включено в этот шаблон?"**
 
-1. **Week 1-2**: Set up one department (recommend Strategy)
-2. **Week 3-4**: Move that department's content over
-3. **Week 5+**: Add departments one by one as they see the value
+**Вы получаете полное, рабочее бизнес-интеллектуальное пространство:**
 
-You can run both systems in parallel. Most teams find they naturally stop using the old system because asking your AI agent is faster than searching through web interfaces.
+**🏗️ Готовая к использованию структура:**
+- 📁 **7 репозиториев отделов** (Strategy, Product, Marketing, Operations, Finance, Legal-HR, Hiring)
+- 📁 **Dev репозитории** для технических проектов  
+- 📁 **Папка Projects** для клиентской работы
+- 📁 **Репозиторий Presales материалов**
 
-### **⚠️ "Does the AI actually follow instructions reliably?"**
+**🤖 Конфигурация AI:**
+- Файлы `.cursorrules` для каждого отдела со специализированным поведением AI
+- Система переключения контекста ("use marketing context" → AI становится маркетинговым экспертом)
+- Промпты и гайдлайны для каждого отдела
 
-**It requires management, like any team member.**
+**📋 Реальные примеры и шаблоны:**
+- **Пайплайн найма** с фреймворками оценки кандидатов и скорингом
+- **Маркетинговые кампании** с воркфлоу планирования и анализа
+- **Финансовые модели** и шаблоны обновлений для инвесторов
+- **Стратегические документы**, включая анализ конкурентов и бизнес-модели
+- **Шаблоны управления клиентскими проектами**
 
-From early implementations:
-- ✅ **80-90% accuracy** on well-defined tasks (with proper setup)
-- ✅ **Dramatically improves** with specific prompts and examples
-- ✅ **Gets better over time** as you refine your `.cursorrules`
+**⚙️ Скрипты автоматизации:**
+- Настройка в один клик для вашей организации (`setup/clone-all-repos.sh`)
+- Скрипты ежедневной синхронизации (`setup/update-all.sh`)
+- Кросс-платформенная поддержка (Windows PowerShell + Mac/Linux Bash)
 
-**Pro tips** from early adopters:
-- Be very specific in your instructions
-- Use examples of good vs bad output
-- Include source citations requirements to reduce hallucinations
-- For critical tasks, have AI generate code/scripts for verification
+**🎯 Что можно попробовать сразу:**
+1. **Попросите AI проанализировать** пример исследования конкурентов
+2. **Попросите AI создать** новую маркетинговую кампанию, используя существующие шаблоны
+3. **Протестируйте систему найма** с примерными кандидатами
+4. **Сгенерируйте финансовые** прогнозы, используя включённые модели
 
-### **📊 "Can I connect real-time data (metrics, APIs, databases)?"**
+**📖 Все основано на реальном использовании компанией** - это не теоретические шаблоны, а воркфлоу, отточенные ежедневным использованием в реальном бизнесе.
 
-**Yes, through AI-generated scripts and integrations.**
+### **📂 "Действительно ли мне нужно изучать GitHub? Это кажется сложным."**
 
-Example workflow:
+**Думайте о GitHub как о Google Drive, а не как об инструменте разработчика.**
+
+Вам никогда не придётся вручную вводить git команды. Ваш AI-агент обрабатывает всю техническую часть. Для вас это просто:
+- 📁 Папки с вашими файлами
+- 💬 "Эй, загрузи все обновления" → AI синхронизирует всё
+- 💬 "Загрузи мои изменения" → AI делает commit и push
+
+Преимущество: история версий, командная коллаборация и профессиональное управление файлами, которое масштабируется.
+
+### **🔄 "Как мигрировать с Notion/Confluence/Google Docs?"**
+
+**Постепенная миграция, отдел за отделом:**
+
+1. **Неделя 1-2**: Настройте один отдел (рекомендуется Strategy)
+2. **Неделя 3-4**: Перенесите контент этого отдела
+3. **Неделя 5+**: Добавляйте отделы по одному, когда они видят ценность
+
+Вы можете запускать обе системы параллельно. Большинство команд обнаруживают, что естественно перестают использовать старую систему, потому что спросить у AI-агента быстрее, чем искать через веб-интерфейсы.
+
+### **⚠️ "Действительно ли AI следует инструкциям надёжно?"**
+
+**Это требует управления, как любой член команды.**
+
+Из ранних реализаций:
+- ✅ **80-90% точности** на хорошо определённых задачах (с правильной настройкой)
+- ✅ **Значительно улучшается** с конкретными промптами и примерами
+- ✅ **Становится лучше со временем**, когда вы дорабатываете свои `.cursorrules`
+
+**Профессиональные советы** от ранних пользователей:
+- Будьте очень конкретны в ваших инструкциях
+- Используйте примеры хорошего vs плохого результата
+- Включайте требования к цитированию источников для уменьшения галлюцинаций
+- Для критических задач заставляйте AI генерировать код/скрипты для верификации
+
+### **📊 "Могу ли я подключить данные в реальном времени (метрики, API, базы данных)?"**
+
+**Да, через AI-генерируемые скрипты и интеграции.**
+
+Пример воркфлоу:
 ```
-You: "Connect to our Google Sheets with revenue data and create a monthly summary"
-AI: Creates Python script → Connects via API → Updates markdown files → You review output
+Вы: "Подключись к нашим Google Sheets с данными о доходах и создай месячную сводку"
+AI: Создаёт Python скрипт → Подключается через API → Обновляет markdown файлы → Вы просматриваете результат
 ```
 
-### **🔒 "What about security and sensitive data?"**
+### **🔒 "Как насчёт безопасности и чувствительных данных?"**
 
-**Enterprise-grade security through GitHub's access controls:**
+**Безопасность уровня предприятия через контроль доступа GitHub:**
 
-- 🏢 **Organization-level permissions** - Control who sees what
-- 🔐 **Repository-level access** - Finance team can't see HR data
-- 📝 **Audit trails** - Full history of who changed what
-- 🔒 **Client data isolation** - Separate repositories for client projects
+- 🏢 **Права на уровне организации** - Контроль того, кто что видит
+- 🔐 **Доступ на уровне репозитория** - Финансовая команда не видит данные HR
+- 📝 **Журналы аудита** - Полная история того, кто что изменил
+- 🔒 **Изоляция клиентских данных** - Отдельные репозитории для клиентских проектов
 
-**AI safety:**
-- Configure AI to cite sources and avoid hallucinations
-- Client-specific data stays in separate repositories
-- Use `.cursorrules` to define data handling policies
+**Безопасность AI:**
+- Настройте AI на цитирование источников и избежание галлюцинаций
+- Клиент-специфичные данные остаются в отдельных репозиториях
+- Используйте `.cursorrules` для определения политик обработки данных
 
 
-### **🏗️ "Can I customize this for my industry/company size?"**
+### **🏗️ "Могу ли я адаптировать это под свою индустрию/размер компании?"**
 
-**Absolutely. The framework is designed to be adapted:**
+**Абсолютно. Фреймворк разработан для адаптации:**
 
-**For smaller companies (5-20 people):**
-- Start with 2-3 departments
-- Use simpler repository structure
-- Focus on core workflows first
+**Для небольших компаний (5-20 человек):**
+- Начните с 2-3 отделов
+- Используйте более простую структуру репозиториев
+- Сфокусируйтесь сначала на основных воркфлоу
 
-**For larger companies (100+ people):**
-- Add more department-specific repositories
-- Implement more sophisticated access controls
-- Create industry-specific templates
+**Для крупных компаний (100+ человек):**
+- Добавьте больше отдел-специфичных репозиториев
+- Реализуйте более сложный контроль доступа
+- Создайте отрасле-специфичные шаблоны
 
-### **🚀 "What's the learning curve for my team?"**
+### **🚀 "Какая кривая обучения для моей команды?"**
 
-**Surprisingly gentle, even for non-technical users:**
+**Удивительно пологая, даже для нетехнических пользователей:**
 
-**Week 1:** "This is just like having a very smart assistant that can read all our files"
-**Week 2:** "Wait, it can also create and edit files automatically?"
-**Week 3:** "I'm asking it to automate tasks I never thought were automatable"
+**Неделя 1:** "Это как иметь очень умного ассистента, который может читать все наши файлы"
+**Неделя 2:** "Подождите, он также может создавать и редактировать файлы автоматически?"
+**Неделя 3:** "Я прошу его автоматизировать задачи, которые никогда не думал, что можно автоматизировать"
 
-**Most common "aha moments":**
-- 🎯 **Recruiters:** "It can score all candidates consistently using our framework"
-- 📊 **Analysts:** "It can process dozens of call transcripts in minutes"  
-- 📝 **Writers:** "It knows our brand voice from reading all our past content"
-- 💼 **Executives:** "I can get cross-department insights without interrupting anyone"
-
----
-
-## 🚀 Project Status & Community
-
-### **Current Implementation Status**
-
-**🏢 Early Stage, High Interest:**
-- ✅ **Active implementation** at Elly Analytics (original company)
-- 🔬 **~20 companies** running early experiments and pilots
-- 💬 **Strong community interest** from founders and business leaders
-- 📈 **Rapid evolution** based on real-world feedback
-
-### **This is a Living Template**
-
-**🛠️ We're building this together:**
-
-This template reflects our current best practices, but we're learning fast. Every company that tries this approach discovers new use cases, automation opportunities, and workflow improvements.
-
-**🤝 Contribution Welcome:**
-- 📝 **Share your .cursorrules** - Department-specific AI prompts that work
-- 🔗 **Add integrations** - Scripts for connecting your tools (CRM, analytics, etc.)
-- 📋 **Contribute templates** - Industry-specific workflows and examples
-- 🐛 **Report issues** - What doesn't work in your environment
-- 💡 **Suggest improvements** - Better folder structures, automation ideas
-
-**📧 How to contribute:**
-- Open issues/PRs on this repository
-- Share your customizations and learnings
-- Join discussions about best practices
-- Help newcomers with setup and troubleshooting
-
-### **What This Means for You**
-
-**✅ Pros:**
-- Get started with proven framework structure
-- Benefit from real company experience  
-- Join active community developing best practices
-- Free, open-source, no vendor lock-in
-
-**⚠️ Keep in mind:**
-- You'll be an early adopter (exciting but requires some pioneering spirit)
-- Some rough edges as we refine workflows
-- Best practices still evolving
-- You might need to adapt examples to your specific needs
-
-**💪 Perfect if you:**
-- Want to be at the forefront of AI-first business operations
-- Enjoy experimenting and contributing to open source
-- Have basic comfort with file management and AI tools
-- Want to help shape the future of AI-assisted teamwork
+**Наиболее частые "моменты озарения":**
+- 🎯 **Рекрутеры:** "Он может оценить всех кандидатов последовательно, используя наш фреймворк"
+- 📊 **Аналитики:** "Он может обработать десятки транскриптов звонков за минуты"  
+- 📝 **Писатели:** "Он знает наш фирменный голос из прочтения всего нашего прошлого контента"
+- 💼 **Руководители:** "Я могу получить межотдельные инсайты, не прерывая никого"
 
 ---
 
-## 🏗️ Implementation Guide
+## 🚀 Статус проекта и сообщество
 
-> ### 📝 **Note about .gitignore**
-> 
-> This template includes `.gitignore.template` instead of `.gitignore` so you can see all example folders on GitHub. When setting up your workspace, this will automatically be copied to `.gitignore` to properly exclude department repositories.
+### **Текущий статус реализации**
 
-> ### ⚠️ **IMPORTANT: DON'T DO THIS MANUALLY!**
+**🏢 Ранняя стадия, высокий интерес:**
+- ✅ **Активная реализация** в Elly Analytics (оригинальная компания)
+- 🔬 **~20 компаний** запускают ранние эксперименты и пилоты
+- 💬 **Сильный интерес сообщества** от основателей и бизнес-лидеров
+- 📈 **Быстрая эволюция** на основе реальной обратной связи
+
+### **Это живой шаблон**
+
+**🛠️ Мы строим это вместе:**
+
+Этот шаблон отражает наши текущие лучшие практики, но мы быстро учимся. Каждая компания, которая пробует этот подход, обнаруживает новые случаи использования, возможности автоматизации и улучшения воркфлоу.
+
+**🤝 Вклад приветствуется:**
+- 📝 **Поделитесь своими .cursorrules** - AI-промпты для отделов, которые работают
+- 🔗 **Добавьте интеграции** - Скрипты для подключения ваших инструментов (CRM, аналитика и т.д.)
+- 📋 **Внесите шаблоны** - Воркфлоу и примеры для конкретных индустрий
+- 🐛 **Сообщите о проблемах** - Что не работает в вашей среде
+- 💡 **Предложите улучшения** - Лучшие структуры папок, идеи автоматизации
+
+**📧 Как внести вклад:**
+- Открывайте issues/PRs в этом репозитории
+- Делитесь своими кастомизациями и знаниями
+- Присоединяйтесь к обсуждениям лучших практик
+- Помогайте новичкам с настройкой и решением проблем
+
+### **Что это значит для вас**
+
+**✅ Преимущества:**
+- Начните с проверенной структуры фреймворка
+- Получите выгоду от реального опыта компании  
+- Присоединитесь к активному сообществу, развивающему лучшие практики
+- Бесплатно, open-source, без привязки к поставщику
+
+**⚠️ Имейте в виду:**
+- Вы будете ранним пользователем (захватывающе, но требует некоторого пионерского духа)
+- Некоторые шероховатости, пока мы дорабатываем воркфлоу
+- Лучшие практики всё ещё развиваются
+- Вам может потребоваться адаптировать примеры под ваши конкретные потребности
+
+**💪 Идеально, если вы:**
+- Хотите быть на передовой AI-first бизнес-операций
+- Наслаждаетесь экспериментами и вкладом в open source
+- Имеете базовый комфорт с управлением файлами и AI-инструментами
+- Хотите помочь сформировать будущее AI-ассистированной командной работы
+
+---
+
+## 🏗️ Руководство по реализации
+
+> ### 📝 **Примечание о .gitignore**
 > 
-> **🤖 Use AI to Implement AI-First Workflows**
+> Этот шаблон включает `.gitignore.template` вместо `.gitignore`, чтобы вы могли видеть все примеры папок на GitHub. При настройке рабочего пространства это автоматически копируется в `.gitignore` для правильного исключения репозиториев отделов.
+
+> ### ⚠️ **ВАЖНО: НЕ ДЕЛАЙТЕ ЭТО ВРУЧНУЮ!**
 > 
-> This template is designed for AI-first organizations, so the implementation should be AI-assisted too!
+> **🤖 Используйте AI для реализации AI-First воркфлоу**
 > 
-> **Instead of following the manual steps below:**
+> Этот шаблон разработан для AI-first организаций, поэтому реализация тоже должна быть AI-ассистированной!
 > 
-> 1. **📁 Create a new folder** for your company workspace
-> 2. **🖥️ Open it in Cursor** 
-> 3. **🤖 Ask your Cursor agent**: 
+> **Вместо следования ручным шагам ниже:**
+> 
+> 1. **📁 Создайте новую папку** для рабочего пространства вашей компании
+> 2. **🖥️ Откройте её в Cursor** 
+> 3. **🤖 Попросите вашего Cursor агента**: 
 >    ```
->    "Help me implement the AI First Workspace Template for my company. 
->    Here's the template: https://github.com/vsevolodustinov/ai-first-workspace-template
+>    "Помоги мне реализовать AI First Workspace Template для моей компании. 
+>    Вот шаблон: https://github.com/vsevolodustinov/ai-first-workspace-template
 >    
->    Guide me through:
->    - Setting up the repository structure
->    - Customizing it for [Your Company Name] 
->    - Creating the GitHub repositories
->    - Migrating our team to this framework
+>    Проведи меня через:
+>    - Настройку структуры репозиториев
+>    - Адаптацию под [Название вашей компании] 
+>    - Создание GitHub репозиториев
+>    - Миграцию нашей команды на этот фреймворк
 >    
->    Walk me through each step and handle the technical setup."
+>    Проведи меня через каждый шаг и обработай техническую настройку."
 >    ```
 > 
-> **🎯 The AI will handle**: Repository creation, script generation, content customization, team onboarding plans, and technical setup.
+> **🎯 AI обработает**: Создание репозиториев, генерацию скриптов, кастомизацию контента, планы онбординга команды и техническую настройку.
 > 
-> **📋 You focus on**: Strategic decisions, team alignment, and organizational change management.
+> **📋 Вы фокусируетесь на**: Стратегических решениях, командной синхронизации и организационном управлении изменениями.
 > 
 > ---
 > 
-> **The manual instructions below are for reference only - let AI handle the implementation!**
+> **Ручные инструкции ниже только для справки - позвольте AI обработать реализацию!**
 
-### Phase 1: Repository Setup
+### Фаза 1: Настройка репозиториев
 
-#### 1. Create Your Organization Structure
+#### 1. Создайте структуру вашей организации
 ```bash
-# 1. Fork or download this template
+# 1. Fork или скачайте этот шаблон
 git clone https://github.com/vsevolodustinov/ai-first-workspace-template.git
 cd ai-first-workspace-template
 
-# 2. Create your company's GitHub organization (if not exists)
-# Go to https://github.com/organizations/new
+# 2. Создайте GitHub организацию вашей компании (если не существует)
+# Перейдите на https://github.com/organizations/new
 
-# 3. Create separate repositories for each department:
+# 3. Создайте отдельные репозитории для каждого отдела:
 ```
 
-#### 2. Required Repositories
-Create these repositories in your organization:
+#### 2. Необходимые репозитории
+Создайте эти репозитории в вашей организации:
 
-**Core Department Repos:**
-- `[YourOrg]/Strategy` - Strategic planning & competitive intelligence
-- `[YourOrg]/Product` - Product roadmap & specifications
-- `[YourOrg]/SalesAndMarketing` - Marketing campaigns & sales processes
-- `[YourOrg]/Operations` - Operational processes & metrics
-- `[YourOrg]/Operations-Hiring` - Hiring processes & recruitment
-- `[YourOrg]/Finance` - Financial models & projections
-- `[YourOrg]/Legal-HR` - Contracts, policies & HR workflows
+**Основные репозитории отделов:**
+- `[YourOrg]/Strategy` - Стратегическое планирование и конкурентная разведка
+- `[YourOrg]/Product` - Дорожная карта продукта и спецификации
+- `[YourOrg]/SalesAndMarketing` - Маркетинговые кампании и процессы продаж
+- `[YourOrg]/Operations` - Операционные процессы и метрики
+- `[YourOrg]/Operations-Hiring` - Процессы найма и рекрутинга
+- `[YourOrg]/Finance` - Финансовые модели и прогнозы
+- `[YourOrg]/Legal-HR` - Контракты, политики и HR воркфлоу
 
-**Technical & Project Repos:**
-- `[YourOrg]/Dev-[ProductName]` - Your main product codebase
-- `[YourOrg]/Projects` - Client project portfolio management
-- `[YourOrg]/Presales` - Presales materials & proposals
+**Технические и проектные репозитории:**
+- `[YourOrg]/Dev-[ProductName]` - Основная кодовая база вашего продукта
+- `[YourOrg]/Projects` - Управление портфелем клиентских проектов
+- `[YourOrg]/Presales` - Материалы и предложения presales
 
-**Main Workspace Repo:**
-- `[YourOrg]/SharedWorkspace` - This template, customized for your company
+**Главный репозиторий рабочего пространства:**
+- `[YourOrg]/SharedWorkspace` - Этот шаблон, адаптированный для вашей компании
 
-> **💡 Naming Your Main Workspace Repository:**
+> **💡 Именование главного репозитория рабочего пространства:**
 > 
-> You can choose any name for your main workspace repository. **Recommended: `SharedWorkspace`**
+> Вы можете выбрать любое имя для главного репозитория рабочего пространства. **Рекомендуется: `SharedWorkspace`**
 > 
-> - **`SharedWorkspace`** - Short, practical name for daily use
-> - **`[YourCompany]-Workspace`** - Include your company name
-> - **`AI-Workspace`** - Emphasize the AI-first approach
+> - **`SharedWorkspace`** - Короткое, практичное имя для ежедневного использования
+> - **`[YourCompany]-Workspace`** - Включите название вашей компании
+> - **`AI-Workspace`** - Подчёркивает подход AI-first
 > 
-> The name you choose here will be used in git clone commands and daily workflows, so pick something convenient for your team.
+> Имя, которое вы выберете здесь, будет использоваться в командах git clone и ежедневных воркфлоу, поэтому выберите что-то удобное для вашей команды.
 
-#### 3. Repository Setup Commands
+#### 3. Команды настройки репозиториев
 ```bash
-# Replace [YourOrg] with your GitHub organization name
-# Replace [YourCompany] with your company name
+# Замените [YourOrg] на имя вашей GitHub организации
+# Замените [YourCompany] на название вашей компании
 
-# Create and initialize each repository:
+# Создайте и инициализируйте каждый репозиторий:
 gh repo create [YourOrg]/Strategy --private
 gh repo create [YourOrg]/Product --private  
 gh repo create [YourOrg]/SalesAndMarketing --private
@@ -398,98 +398,98 @@ gh repo create [YourOrg]/Projects --private
 gh repo create [YourOrg]/Presales --private
 gh repo create [YourOrg]/SharedWorkspace --private
 
-# Clone and populate template content:
+# Клонируйте и заполните контентом шаблона:
 git clone git@github.com:[YourOrg]/SharedWorkspace.git
 cd SharedWorkspace
 
-# Copy template content to each repository
-# (Detailed instructions in setup/ folder)
+# Скопируйте контент шаблона в каждый репозиторий
+# (Подробные инструкции в папке setup/)
 ```
 
-### Phase 2: Content Customization
+### Фаза 2: Кастомизация контента
 
-#### 1. Update Workspace Configuration
+#### 1. Обновите конфигурацию рабочего пространства
 ```bash
-# Edit .cursorrules to replace [COMPANY_NAME] with your company
-# Edit setup scripts to point to your repositories
-# Update README.md with your company information
+# Отредактируйте .cursorrules, чтобы заменить [COMPANY_NAME] на вашу компанию
+# Отредактируйте скрипты setup, чтобы указать на ваши репозитории
+# Обновите README.md с информацией о вашей компании
 
-# IMPORTANT: Set up .gitignore for your workspace
+# ВАЖНО: Настройте .gitignore для вашего рабочего пространства
 cp .gitignore.template .gitignore
-# This file excludes department repos (Docs/, Dev/, etc.) since they're separate git repositories
+# Этот файл исключает репозитории отделов (Docs/, Dev/, и т.д.), так как они являются отдельными git репозиториями
 ```
 
-#### 2. Populate Department Repositories
+#### 2. Заполните репозитории отделов
 ```bash
-# For each department, copy relevant template content:
+# Для каждого отдела скопируйте соответствующий контент шаблона:
 cd Docs/Strategy
-# Copy strategy templates and examples
-# Replace Elly Analytics examples with your company information
+# Скопируйте шаблоны и примеры стратегии
+# Замените примеры Elly Analytics на информацию о вашей компании
 
 cd ../Product  
-# Copy product templates and examples
-# Adapt to your product architecture
+# Скопируйте шаблоны и примеры продукта
+# Адаптируйте под архитектуру вашего продукта
 
-# Repeat for all departments...
+# Повторите для всех отделов...
 ```
 
-#### 3. Team Onboarding
+#### 3. Онбординг команды
 ```bash
-# Add team members to appropriate repositories
-# Set up department-specific permissions
-# Train teams on AI context switching
+# Добавьте членов команды в соответствующие репозитории
+# Настройте права доступа для каждого отдела
+# Обучите команды переключению контекста AI
 ```
 
-### Phase 3: Tool Migration
+### Фаза 3: Миграция инструментов
 
-#### 1. Cursor Setup for Teams
+#### 1. Настройка Cursor для команд
 ```bash
-# Install Cursor for all team members
-# Import workspace configuration
-# Train on AI context switching commands
+# Установите Cursor для всех членов команды
+# Импортируйте конфигурацию рабочего пространства
+# Обучите переключению контекста AI командам
 ```
 
-#### 2. Workflow Training
-- **Department heads** - Learn context switching and AI workflows
-- **Team members** - Daily workflow patterns and AI collaboration  
-- **Leadership** - Cross-department visibility and strategic AI use
+#### 2. Обучение воркфлоу
+- **Главы отделов** - Изучают переключение контекста и AI-воркфлоу
+- **Члены команды** - Ежедневные паттерны воркфлоу и AI-коллаборация  
+- **Руководство** - Межотдельная видимость и стратегическое использование AI
 
-#### 3. Gradual Migration
-1. **Week 1-2**: Department heads set up repositories and learn workflows
-2. **Week 3-4**: Migrate existing documentation to new structure
-3. **Week 5-6**: Train team members on AI-first workflows
-4. **Week 7+**: Full adoption and optimization
+#### 3. Постепенная миграция
+1. **Неделя 1-2**: Главы отделов настраивают репозитории и изучают воркфлоу
+2. **Неделя 3-4**: Мигрируют существующую документацию в новую структуру
+3. **Неделя 5-6**: Обучают членов команды AI-first воркфлоу
+4. **Неделя 7+**: Полное принятие и оптимизация
 
 ---
 
-## 🎯 Getting Started
+## 🎯 Начало работы
 
-### For Organizations Adopting This Framework
+### Для организаций, внедряющих этот фреймворк
 
-1. **Leadership Alignment** - Ensure executive buy-in for AI-first transformation
-2. **Repository Setup** - Follow the [Implementation Guide](#-implementation-guide) above
-3. **Pilot Department** - Start with one department (recommend Strategy or Product)
-4. **Gradual Rollout** - Expand to additional departments based on early success
-5. **Training & Support** - Invest in team training for AI collaboration workflows
+1. **Синхронизация руководства** - Обеспечьте исполнительную поддержку AI-first трансформации
+2. **Настройка репозиториев** - Следуйте [Руководству по реализации](#-implementation-guide) выше
+3. **Пилотный отдел** - Начните с одного отдела (рекомендуется Strategy или Product)
+4. **Постепенное развёртывание** - Расширяйте на дополнительные отделы на основе раннего успеха
+5. **Обучение и поддержка** - Инвестируйте в обучение команды воркфлоу AI-коллаборации
 
-### For Individual Contributors
+### Для индивидуальных участников
 
-1. **Clone your organization's workspace:**
+1. **Клонируйте рабочее пространство вашей организации:**
    ```bash
    git clone git@github.com:[YourOrg]/SharedWorkspace.git
    cd SharedWorkspace
    ```
 
-2. **Run setup to clone all departments:**
+2. **Запустите setup для клонирования всех отделов:**
    ```bash
-   # For Unix/Mac:
+   # Для Unix/Mac:
    bash setup/clone-all-repos.sh
    
-   # For Windows:
+   # Для Windows:
    .\setup\clone-all-repos.ps1
    ```
 
-3. **Start with AI context switching:**
+3. **Начните с переключения контекста AI:**
    ```
    "Use strategy context"
    "Use product context"
@@ -498,103 +498,103 @@ cd ../Product
 
 ---
 
-## 🏗️ Architecture Overview
+## 🏗️ Обзор архитектуры
 
-### Multi-Repository Structure
+### Мульти-репозиторийная структура
 ```
 YourCompany-SharedWorkspace/
-├── .cursorrules              # AI context switching & company rules
-├── README.md                 # This documentation  
-├── setup/                    # Automated setup scripts
-├── Docs/                     # Department repositories (separate repos)
-│   ├── Strategy/            # Strategic planning & competitive intel
-│   ├── Product/             # Product roadmap & specifications
-│   ├── SalesAndMarketing/   # Marketing campaigns & sales process
-│   ├── Operations/          # Operational processes & metrics
-│   │   └── Hiring/          # Hiring processes & recruitment
-│   ├── Finance/             # Financial models & projections
-│   └── Legal-HR/            # Legal contracts & HR policies
-├── Dev/                     # Technical repositories
-│   └── [ProductName]/       # Your product codebases
-├── Projects/                # Client projects (separate repos)
-└── Presales/                # Presales materials (single repo)
+├── .cursorrules              # Переключение контекста AI и правила компании
+├── README.md                 # Эта документация  
+├── setup/                    # Автоматизированные скрипты настройки
+├── Docs/                     # Репозитории отделов (отдельные репозитории)
+│   ├── Strategy/            # Стратегическое планирование и конкурентная разведка
+│   ├── Product/             # Дорожная карта продукта и спецификации
+│   ├── SalesAndMarketing/   # Маркетинговые кампании и процесс продаж
+│   ├── Operations/          # Операционные процессы и метрики
+│   │   └── Hiring/          # Процессы найма и рекрутинга
+│   ├── Finance/             # Финансовые модели и прогнозы
+│   └── Legal-HR/            # Юридические контракты и HR политики
+├── Dev/                     # Технические репозитории
+│   └── [ProductName]/       # Кодовые базы вашего продукта
+├── Projects/                # Клиентские проекты (отдельные репозитории)
+└── Presales/                # Материалы presales (единый репозиторий)
 ```
 
-### Key Principles
+### Ключевые принципы
 
-**🔄 Department Autonomy** - Each team owns their repository and workflows
-**🤖 AI Context Switching** - AI adapts expertise based on department context
-**📊 Cross-Department Visibility** - Transparency while maintaining specialization
-**🔒 Proper Access Control** - GitHub-based permissions for enterprise security
-**⚡ Developer-Quality Tools** - Professional workflows for all team members
-
----
-
-## 🛠️ Technical Requirements
-
-### Prerequisites
-- **GitHub Organization** - For repository management and access control
-- **Cursor Editor** - Primary AI-enabled development environment
-- **Git Proficiency** - Basic git knowledge for team members
-- **SSH Keys** - Secure repository access (setup guide included)
-
-### Supported Platforms
-- **macOS** - Full support with automated setup scripts
-- **Windows** - Full support with PowerShell scripts
-- **Linux** - Full support with bash scripts
-
-### Team Requirements
-- **Leadership Champion** - Executive sponsor for AI transformation
-- **Technical Coordinator** - Person to manage repository setup and permissions
-- **Department Heads** - Owners for each department repository
-- **Training Plan** - Structured onboarding for team members
+**🔄 Автономия отделов** - Каждая команда владеет своим репозиторием и воркфлоу
+**🤖 Переключение контекста AI** - AI адаптирует экспертизу на основе контекста отдела
+**📊 Межотдельная видимость** - Прозрачность при поддержании специализации
+**🔒 Правильный контроль доступа** - Права на основе GitHub для корпоративной безопасности
+**⚡ Инструменты уровня разработчиков** - Профессиональные воркфлоу для всех членов команды
 
 ---
 
-## 📚 Documentation & Support
+## 🛠️ Технические требования
 
-### Included Documentation
-- **Setup Guides** - Step-by-step implementation instructions
-- **Workflow Examples** - Real-world usage patterns from each department
-- **AI Context Rules** - Complete prompt engineering and behavior definitions
-- **Template Content** - Professional examples for all department types
+### Предварительные условия
+- **GitHub Organization** - Для управления репозиториями и контроля доступа
+- **Cursor Editor** - Основная среда разработки с AI
+- **Знание Git** - Базовое знание git для членов команды
+- **SSH ключи** - Безопасный доступ к репозиториям (руководство по настройке включено)
 
-### Getting Help
-- **Issues** - Report problems or request features via GitHub Issues
-- **Discussions** - Share experiences and get community support
-- **Examples** - Extensive real-world examples from Elly Analytics
+### Поддерживаемые платформы
+- **macOS** - Полная поддержка с автоматизированными скриптами настройки
+- **Windows** - Полная поддержка со скриптами PowerShell
+- **Linux** - Полная поддержка со скриптами bash
 
----
-
-## 🎯 Success Metrics
-
-Organizations using this framework typically see:
-
-- **30-50% reduction** in routine administrative work
-- **Improved cross-department collaboration** through AI-enabled transparency
-- **Faster onboarding** for new team members
-- **Higher quality documentation** through AI assistance
-- **Better strategic alignment** across all departments
+### Требования к команде
+- **Руководящий чемпион** - Исполнительный спонсор AI-трансформации
+- **Технический координатор** - Человек для управления настройкой репозиториев и правами
+- **Главы отделов** - Владельцы каждого репозитория отдела
+- **План обучения** - Структурированный онбординг для членов команды
 
 ---
 
-## 🤝 Contributing
+## 📚 Документация и поддержка
 
-This template improves through real-world usage. If your organization adopts this framework:
+### Включённая документация
+- **Руководства по настройке** - Пошаговые инструкции по реализации
+- **Примеры воркфлоу** - Реальные паттерны использования из каждого отдела
+- **Правила контекста AI** - Полные определения инженерии промптов и поведения
+- **Контент шаблонов** - Профессиональные примеры для всех типов отделов
 
-1. **Share feedback** on what works and what doesn't
-2. **Contribute improvements** via pull requests
-3. **Document adaptations** for different industries or team sizes
-4. **Help others** through discussions and issue responses
+### Получение помощи
+- **Issues** - Сообщайте о проблемах или запрашивайте функции через GitHub Issues
+- **Discussions** - Делитесь опытом и получайте поддержку сообщества
+- **Примеры** - Обширные реальные примеры из Elly Analytics
 
 ---
 
-## 📄 License
+## 🎯 Метрики успеха
 
-MIT License - Feel free to adapt this framework for your organization's needs.
+Организации, использующие этот фреймворк, обычно видят:
 
-## 🙏 Acknowledgments
+- **Сокращение на 30-50%** рутинной административной работы
+- **Улучшенную межотдельную коллаборацию** через AI-обеспеченную прозрачность
+- **Более быстрый онбординг** новых членов команды
+- **Более качественную документацию** через AI-помощь
+- **Лучшую стратегическую синхронизацию** во всех отделах
 
-**Created by [Seva Ustinov](https://github.com/vsevolodustinov)** based on the real-world implementation at **[Elly Analytics](https://ellyanalytics.com)**.
+---
 
-Special thanks to the Elly Analytics team for pioneering AI-first organizational workflows and proving this approach works at scale.
+## 🤝 Вклад
+
+Этот шаблон улучшается через реальное использование. Если ваша организация внедряет этот фреймворк:
+
+1. **Поделитесь отзывом** о том, что работает и что нет
+2. **Внесите улучшения** через pull requests
+3. **Документируйте адаптации** для разных индустрий или размеров команд
+4. **Помогайте другим** через обсуждения и ответы на issues
+
+---
+
+## 📄 Лицензия
+
+MIT License - Свободно адаптируйте этот фреймворк под потребности вашей организации.
+
+## 🙏 Благодарности
+
+**Создано [Seva Ustinov](https://github.com/vsevolodustinov)** на основе реальной реализации в **[Elly Analytics](https://ellyanalytics.com)**.
+
+Особая благодарность команде Elly Analytics за пионерские AI-first организационные воркфлоу и доказательство того, что этот подход работает в масштабе.
